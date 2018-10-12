@@ -1,0 +1,48 @@
+
+.form-container{
+   z-index: 1;
+   background: #ede1e1e1;
+    width: 30%;
+    height: 359PX;
+   
+      text-align: center;
+      position: relative;
+      top:80px;
+      left: 35%;
+      border: 2px solid  #ede1e1e1
+}
+.wid{
+  margin: auto;
+   width: 80%;
+   text-align: center;
+   border:none;
+
+}
+
+
+
+@media screen and (max-width:400px){
+        .form-container {
+        
+          width:20%;
+          height:359px;
+          text-align: center;
+        }
+
+}
+footer {
+ position: relative;
+ z-index: 1;
+ top:150px;
+ width: 100%;
+ background: black;
+ text-align: center;
+
+}
+
+.box{
+      background:#ede1e1e1;
+      position:relative;
+         top:100px; 
+         text-align:center;
+}
